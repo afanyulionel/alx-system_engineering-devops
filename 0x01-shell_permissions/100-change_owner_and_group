@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --reference=vincent g=staff *
+chown --reference=vincent g=staff .
